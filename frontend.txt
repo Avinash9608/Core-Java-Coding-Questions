@@ -1,0 +1,16 @@
+ <img src="I/51z60rNcKSL._AC_SX184_.jpg" />
+    <img src="I/41r5FlsCcyL._AC_SX184_.jpg" />
+    <img
+      src="G/31/img20/AmazonBrands/AmazonBasicsTV/NewLaunches/Desktop_1500x.jpg"
+    />
+
+<base
+      href="https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/"
+    />
+  <img src="mountains.jpg" />
+    <img src="Trees.jpg" />
+// Default size of font is 16px
+ <base href="media/images/" />
+Ranking page in google a technology use that is SEO- Search Engine Optimization
+UTF-unicode transformation formate
+chrome - c programming lang
